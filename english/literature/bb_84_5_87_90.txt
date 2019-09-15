@@ -1,0 +1,96 @@
+EX1.
+
+A-10
+B-16
+C-15
+D-12
+E-1
+F-13
+G-3
+H-2
+I-4
+J-9
+K-7
+L-8
+M-14
+N-11
+O-6
+P-5
+
+1) Попытаться сделать больше, чем ты можешь сделать
+2) строгий, жестокий или решительный, без остановки.
+3) передача (данных) от одного пк к другому, чаще на сервер
+4) нумер представленный как 10^30
+5) что-то или кто-то что затрудняет твою деятельность
+6) согласие между противниками остановить сражения или принятие временного перемирия, или период этого урегулирования
+7) небольшой и особенно интересный предмет сплетен или информации
+8) относящиеся к человеку или группе, помимо двух, в основном связанных с ситуацией
+9) (неофициальный), используемый при разговоре о различных действиях, предметах или идеях, когда вы не говорите точно, что это такое
+10) который использует шифрование при доступе к компьютерной сети для обеспечения конфиденциальности, особенно от государственных органов.
+11) внимательно изучать или проверять
+12) фотография, сделанная быстро и часто не очень умело
+13) постепенное начало
+14) принять или простить поведение, которое большинство людей считает морально неправильным
+15) когда кто-то много думает или беспокоится о чем-то, в результате чего они не обращают внимания на другие вещи
+16) очень мало людей или вещей
+
+
+
+EX2.
+===============================
+
+Как мы все стали одержимы онлайн-конфиденциальностью
+
+Это началось с радикальных «cypherpunks», которые хотели уничтожить государство. Теперь это проблема с горячими кнопками для каждого пользователя Facebook. Как изменилось понятие конфиденциальности в Интернете, и где это займет нас дальше?
+
+Отбросьте свой ум на пять или десять лет назад. Вы когда-нибудь думали о данных, о вашем цифровом следе, NSA или о том, что случилось с вашими сообщениями в социальных сетях? Сомнительно, хотя вы, возможно, делали большую часть одного и того же онлайн. Вопрос о конфиденциальности в Интернете не был чем-то, о чем многие из нас много думали. Несколько событий продемонстрировали, насколько все изменилось.
+
+Согласно опросу Deloitte Data Nation 2014 года, 24% людей в Великобритании не доверяют какой-либо организации своей личной информацией. Недавние исследования моего исследовательского центра Demos обнаружили, что половина молодых людей заявили, что они были крайне или очень обеспокоены «конфиденциальностью в Интернете» - больше, чем экологические проблемы, иммиграция, уклонение от уплаты налогов или ЕС.
+
+Уединение в Интернете стало серьезной политической и социальной озабоченностью. Каждый раз, когда правительства, особенно правительство США, преуспевали, пытаясь слишком много шпионить за гражданами, к борьбе вступили бы новые движения и организации. И в течение 1990-х и 2000-х годов тайна интернета постепенно начала проникать в периферийное видение людей как нечто, о чем стоит беспокоиться.
+
+Но это действительно только последние 5 лет или около того, что он переместился с периферии в центр. Отчасти это Сноуден. Отчасти это неустанная работа активистов и журналистов, которые разделяют озабоченность. Но в основном это время, которое мы сейчас проводим в Интернете, и осознание того, что все эти данные, которые мы производим, должны куда-то идти. В эти дни мы разделяем чрезмерное количество цифровой информации о себе: наши банковские реквизиты, нашу любовную жизнь, наши праздничные снимки; вся наша жизнь в сети. И это уже не просто правительства, которые все это делают - это частные компании.
+
+Подумайте на мгновение: вы когда-нибудь задумывались, почему мы получаем все эти удивительные интернет-услуги - Facebook, Twitter, YouTube, Gmail - бесплатно? Я тоже редко думаю об этом, потому что я привык ко всему этому просто быть там и всегда работать. Но для запуска этих платформ стоит немало денег: серверное пространство, высококвалифицированные инженеры, юридические команды. Мы платим все правильно, просто не наличными. Мы платим с нашими данными и нашей конфиденциальностью.
+
+Растет чувство, что «они» - компании, правительства, хакеры, все, кто знает больше о компьютерах, чем вы, - захватывают ваши данные и делают вещи, с которыми вы не потворствуете, и не понимаете.
+
+Вот почему проблема конфиденциальности в Интернете сегодня пресекает традиционные политические границы. В целом, левые опасаются, что государственный надзор может посягнуть на право человека на неприкосновенность частной жизни. Правильное беспокойство о том, сколько власти перейдет к государственной бюрократии. В радикальных либертарианских интерьерах многие считают, что анонимность в Интернете в конечном итоге приведет к безстоящей утопии. Есть много других людей, которые не подходят нигде, но просто верят, что обществу лучше служить, если люди имеют защищенную сферу личной и личной жизни. Действительно, в неприкосновенности частной жизни всегда существовало немного неудобное перемирие; между социал-демократическими левыми и либертарным правом.
+
+Отражением этого нового широкого политического интереса к конфиденциальности в Интернете является впечатляющая группа кампаний, которые очень эффективно исследовали, лоббировали и оказывали давление на правительства по этому вопросу. Каждый раз, когда правительство Соединенного Королевства в тот же день предлагает новые законы о интернет-наблюдении, Big Brother Watch, Privacy International, Open Rights Group, Liberty, Index on Censorship и другие, нажмите на механизм. Во время законопроекта о данных о связях Коалиции это «лоббирование конфиденциальности», как их иногда называют, неумолимо в скручивании законопроекта, выборе дыр в его положениях и повышении осведомленности о его недостатках. Очень немногие люди с другой стороны дебатов - полиция, разведывательные службы или даже широкая общественность - поставили свои головы над парапетами. Их усилия были важной причиной, по которой она была в конечном счете отброшена (с большой помощью Ник Клегг и Lib Dems).
+
+Наряду с этим политическая деятельность - это более быстрый выигрыш в технологическом процессе. Есть сотни активистов по защите частной жизни, работающих над изобретательными способами блокировки цензуры и защиты вашей конфиденциальности в Интернете. Я думаю, что мы вступаем в эпоху, когда цензура становится более сложной и непринужденной. Больший вопрос заключается в том, что этот новый нашла одержимость конфиденциальностью в Интернете, может занять нас. Я взял интервью у многих людей, которые работают над тем, чтобы помочь людям улучшить или поддерживать свою конфиденциальность в Интернете. Они не оловянные шляпы в теории заговора. Они рассматривают вопрос о конфиденциальности в Интернете как цифровой фронт в битве за личную свободу: отказ от интернет-наблюдения и цензуры, которые, по их мнению, стали доминировать в современной жизни онлайн. Их мотивация, как правило, хорошо преднамеренная: желание помочь обеспечить людям возможность оставаться конфиденциальными и тайными в Интернете, чтобы держать общение открытым и не контролироваться третьими лицами.
+
+Но, несмотря на эти очевидные проблемы, конфиденциальность всех видов служит жизненно важной социальной и индивидуальной функции. В большинстве демократических обществ неприкосновенность частной жизни создает сферу свободы для индивида, которая позволяет политическое, социальное и личное выражение. Устоявшиеся демократии используют тайные бюллетени для обеспечения того, чтобы люди могли беспрепятственно или страшно выражать свои политические взгляды. Подлинная анонимность предоставляет и предоставляет людям пространство для разговора, раздвижения границ, продвижения вперед общества.
+
+Как политически, так и технологически, мы больше заботимся о конфиденциальности сейчас, чем десять лет назад, и мы собираемся получить больше. Это означает большую конфиденциальность от диктаторов, рекламодателей, шпионов, куки, полицию, хакеров. Это не будет тот или другой, который победит, но и то, и другое.
+
+===============================
+
+
+How we all became obsessed with online privacy
+
+It began with radical 'cypherpunks' who wanted to destroy the state. Now it's a hot-button issue for every Facebook user. How did the notion of internet privacy gain so much traction, and where will it take us next? 
+
+Cast your mind back to just five or ten years ago. Did you ever think about data, your digital footprint, the NSA, or what happened to your social media posts? Doubtful, even though you might have been doing much of the same online. The question of internet privacy wasn’t something many of us gave much thought to. A handful of events have demonstrated how much that has all changed.
+
+According to the 2014 Deloitte Data Nation survey, 24 per cent of people in the UK do not trust any type of organisation with their personal information. Recent research by my think-tank Demos found half of young people said they were either extremely or very concerned by ‘online privacy’ – more than environmental issues, immigration, tax avoidance, or the EU. 
+
+Internet privacy has become a major political and social preoccupation. Each time governments – especially the US government – overreached by trying to spy on citizens too much, new movements and organisations would join the fray. And through the course of the 1990s and 2000s, internet privacy slowly started to inch into people’s peripheral vision as something worth worrying about.
+
+But it’s really only the last 5 years or so that it’s moved from periphery to centre. Partly it’s Snowden. Partly it’s the relentless work of activists and journalists who share concerns. But mostly it’s the amount of time we now spend online, and a dawning realisation that all that data we produce must be going somewhere. These days we share inordinate amounts of digital information about ourselves: our bank details, our love life, our holiday snaps; our whole lives are online. And it’s no longer just governments snaffling it all up – it is private companies, too.
+
+Think for a moment: do you ever wonder why it is that we get all these amazing internet services – Facebook, Twitter, YouTube, Gmail – for free? I rarely think about it, either, because I’m used to it all just being there, and always working. But it costs an awful lot of money to run these platforms: the server space, the highly skilled engineers, the legal teams. We are paying all right, just not in cash. We pay with our data and our privacy.
+
+There is a growing feeling that ‘they’ –companies, governments, hackers, anyone who knows more about computers than you do – are getting hold of your data and doing stuff with it you don’t condone, and don’t really understand.
+
+That’s why the issue of internet privacy today cuts across traditional political boundaries. Broadly speaking, the left are fearful that state surveillance might encroach on the individual’s right to privacy. The right worry about how much power will pass to state bureaucracy. At the radical libertarian fringes, many believe that anonymity online will eventually lead to a stateless utopia. There are many others who don’t fit anywhere, but simply believe society is better served if people have a protected sphere of personal and private life. Indeed, a slightly uncomfortable truce has always existed within the privacy movement; between social democratic left wingers and the libertarian right.
+
+A reflection of this new broad political interest in internet privacy is the impressive group of campaign organisations that have very effectively researched, lobbied and pressured governments on the subject. Each time the UK government of the day proposes new laws on internet surveillance, Big Brother Watch, Privacy International, Open Rights Group, Liberty, Index on Censorship and others click into gear. During the Coalition’s Communications Data Bill, this ‘privacy lobby’, as they are sometimes called, were relentless in scruitinising the bill, picking holes in its provisions, and raising awareness of its flaws. Very few people from the other side of the debate – the police, the intelligence agencies or even the general public – put their heads above the parapet. Their efforts was an important reason it was ultimately ditched (with a lot of help from Nick Clegg and the Lib Dems).
+
+Alongside this political activity is the quicker win of the technological. There are hundreds of privacy activists working on ingenious ways to block censorship and protect your privacy online. I think we’re entering into an era where censorship becomes harder and privacy easier. The bigger question is where this new found obsession with internet privacy might take us. I’ve interviewed many of the people who work on helping people enhance or maintain their privacy online. They aren’t tin hat wearing conspiracy theories. They see the question of online privacy as the digital front in a battle over individual liberty: a rejection of internet surveillance and censorship that they believe has come to dominate modern life online. Their motivation is typically well intentioned: a desire to help make sure people can remain private and secret online, to keep communication open and not controlled by third parties.
+
+But despite these obvious problems privacy of all kinds serves a vital social and individual function. In most democratic societies, privacy creates a sphere of freedom for the individual, which allows for political, social and personal expression. Well-established democracies use secret ballots to ensure that people can express their political views without hindrance or fear.  Genuine anonymity has and does grant people the space to speak their mind, to push boundaries, to propel society forward.
+
+Whether politically or technologically, we care more about privacy now than a decade ago, and we’re about to get more of it. This means more privacy from dictatorships, advertisers, spies, cookies, police, hackers. It won’t be one or the other that wins out, but both.
+

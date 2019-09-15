@@ -1,0 +1,77 @@
+#11 95
+
+encrypt - шифровать, кодировать 
+encode - шифровать, кодировать 
+decrypt - расшифровывать, декодировать 
+decipher - дешифровка, расшифровка
+
+1) decrypt
+2) encrypted
+3) encoded
+4) encrypt
+5) deciphered
+6) encrypted
+7) encode
+
+(((
+1)encode
+2)encrypt
+3)encrypt
+4)encode
+5)decipher
+)))
+
+#14 99-100
+1)
+2)
+3)
+4)
+5)
+6)
+7)
+8) quantillions
+9)
+10)
+
+-------------------
+111 all
+
+#1
+1 If they had debts.
+2 They didn't have money to payoff their debt or the cost of in prison.
+3 Dickens' father was in prison.
+
+#2 
+1 had to 
+2 could/were allowed to 
+3 didn't have to
+4 could/were allowed to 
+5 could/were allowed to
+6 couldn't/weren't allowed to 
+7 had to 
+8 had to 
+9 had to
+
+#GRAMMAR 
+1 could 
+2 was/were allowed to 
+3 wasn'tlweren't allowed to
+4 couldn't 
+5 didn't have to 
+6 had to 
+7 no past form: had to
+8 no past form: weren't allowed tolcouldn't 
+9 had to
+
+#PRACTICE
+#1
+1 couldn't/weren't allowed to 
+2 had to 
+3 couldn't/weren't allowed to
+4 had to 
+5 had to 
+6 didn't have to 
+7 couldn't/weren't allowed to
+8 had to 
+9 couldn't/weren't allowed to 
+10 could/were allowed to
