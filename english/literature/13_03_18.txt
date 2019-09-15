@@ -1,0 +1,178 @@
+1111111111111¶¶¶¶¶¶¶­¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+1111111111¶¶¶¶¶111_­________________¶¶
+11111111¶¶1_______1­111______111_____¶¶
+111111¶¶______11___­______11111111____¶1­
+111111¶____11___1__­___11______1111___1¶­
+11111¶1___1_____1__­___1_________1_____¶­1
+11111¶_____________­_____1¶¶¶¶1________1­¶
+1111¶¶_____¶¶¶¶1___­___1¶¶_¶¶¶¶¶1_______­¶¶
+111¶¶_1_1_¶¶¶¶¶¶¶_1­___¶__1¶¶¶¶¶¶111____­1¶¶
+111¶_1________11¶¶1­___¶¶¶1__1_____1¶¶¶1­__1¶
+11¶1__1¶¶1______11_­____1____¶¶__1¶¶1__¶­¶__1¶
+11¶1__111¶¶¶¶___¶1_­__________1¶¶1___¶__­¶1__¶
+11¶1____1_11___¶¶__­___1¶1_________¶¶¶1_­_¶__¶1
+111¶_1__¶____1¶¶___­___11¶1_____1¶¶1_¶¶¶­1¶__¶1
+111¶1__¶¶___11¶¶___­_¶¶¶_¶___1¶¶¶1___¶__­¶___¶1
+111¶¶__¶¶¶1_____¶¶1­_____11¶¶¶1_¶__1¶¶__­___¶11
+1111¶__¶¶1¶¶¶1___¶_­__1¶¶¶¶1____¶¶¶¶¶___­__¶¶11
+1111¶__¶_1__¶¶¶¶¶¶¶­¶¶11__¶__1¶¶¶1_¶____­_¶¶111
+1111¶1_¶¶¶__1___¶__­_1____¶¶¶¶¶1¶_¶¶____­¶¶1111
+1111¶1_¶¶¶¶¶¶¶1¶¶11­¶¶1¶¶¶¶¶1___1¶¶_____­¶11111
+1111¶1_¶¶¶¶¶¶¶¶¶¶¶¶­¶¶¶¶¶1_¶____¶¶_____¶­¶11111
+1111¶1_¶¶¶¶¶¶¶¶¶¶¶¶­1¶1____¶__1¶¶______¶­111111
+1111¶__1¶¶_¶_¶__¶__­_11____1¶¶¶______1¶1­111111
+1111¶___¶¶1¶_11_11_­_1¶__1¶¶¶1___11_1¶11­111111
+1111¶_____¶¶¶¶¶¶¶¶¶­¶¶¶¶¶¶1___11111¶¶111­111111
+1111¶__________1111­1_______111_1¶¶11111­111111
+1111¶_1__11________­____1111__1¶¶1111111­111111
+1111¶__11__1_______­_1111___1¶¶111111111­111111
+1111¶___1111_______­______1¶¶11111111111­111111
+1111¶¶_____________­__11¶¶¶1111111111111­111111
+11111¶¶__________1¶­¶¶¶¶1111111111111111­111111
+1111111¶¶¶¶¶¶¶¶¶¶¶1­11111111111111111111­111111
+
+Джоанна Гудман рассматривает обещания и подводные камни ИИ, поскольку мы сталкиваемся с реальной возможностью «мышления» машин, способных принимать решения, которые влияют на людей
+
+Люди уже давно увлечены концепцией искусственного интеллекта, но только относительно недавно технология продвинулась достаточно, чтобы сделать ее реальностью. В 2014 году мы увидели, что компьютер прошел тест Тьюринга - его ответы в серии текстовых разговоров убедили 30% человеческих следователей, что это человек.
+
+Мы видим ИИ в повседневной жизни. В качестве примеров можно привести Siri от Apple и Cortana от Microsoft, иронически названную после персонажа с искаженным искусственным интеллектом в серии видеоигр Halo. Мы находимся на пути к автомобилям без водителя с новейшей двухмоторной моделью Tesla Motors Model S, функция автопилота которой обеспечивает безопасность автомобиля в полосе движения, соблюдает ограничения скорости, позволяет избежать препятствий и паркующейся в вашем гараже. Главный исполнительный директор Elon Musk сказал Bloomberg, что он ожидает, что Tesla станет «первой компанией на рынке со значительной автономной функцией вождения в транспортных средствах».
+
+В секторе обороны южнокорейские силы развернули вооруженные патрульныероботы Samsung SGR-1 для патрулирования границы с Северной Кореей, а в Ираке и Афганистане iRobot Packbot Tactical Mobile Robot уничтожаетнеразорвавшиеся бомбы и мины и собирает судебные доказательства.
+
+Инвесторы серьезно относятся к ИИ. В последнем квартале 2014 года произошел поток инвестиций в кремниевую долину в проекты ИИ, связанные с анализом финансовых рисков, большим анализом данных, распознаванием языка и изображений и автоматическим написанием отчетов. Они включают в себя механизмы прогнозирования финансового рынка, такие как Sentient, которые имитируют финансовые рынки, чтобы определить, как они будут реагировать на разные сценарии, а также помощник виртуального рынка от Goldman Sachs от американского начинающего Kensho, который может ответить на сложные вербальные финансовые вопросы. В здравоохранении компания Watson помогает врачам использовать геномные данные для персонализации планов лечения пациентов.
+
+Между тем, Facebook использует глубокое обучение, набор алгоритмов, пытающихся моделировать абстракции высокого уровня из данных, чтобы определить, являются ли две фотографии одного и того же человека. В прошлом году Google приобрел стартап DeepMind, и IBM представила свой нейроморфный чип SyNapse, кремниевые транзисторы которого сконфигурированы для репликации нейронов и синапсов человеческого мозга.
+
+Однако, поскольку интерес и инвестиции в этом районе взрываются, многие из ведущих мыслителей и предпринимателей в мире публично выражают свою озабоченность. Стивен Хокинг говорит, что это может означать конец человеческой расы; Элон Маск говорит, что это более опасно, чем ядерное оружие.
+
+Мы всегда относились к ИИ с некоторым трепетом. Законы робототехники Исаака Азимова восходят к 1942 году. Многочисленные фильмы ИИ выявили потенциальные опасности для человечества, особенно когда машины с ИИ становятся «самосознающими». Недавние примеры включают Ее и Экс Машину. Но это вымысел. Теперь мы сталкиваемся с подлинной возможностью «мышления» машин принимать решения, которые касаются людей.
+
+В практическом плане ИИ устраняет человеческие ошибки. Он не устает, неправильно получае расчеты или выполняет тот же тест дважды. Но хотя мы можем гуманизировать технологии для анализа и принятия решений, основанных на наших потребностях, поведении, предпочтениях и реакциях, нам нужно быть осторожными в определении своих целей - и быть в курсе его ограничений. Очевидным ограничением является то, что аппаратное и программное обеспечение изнашивается и заменяется, но большие вопросы касаются этики. Каковы юридические последствия? Каким правилам мы должны следовать для снижения рисков?
+
+Многие из экспертов в области искусственного интеллекта в мире недавно подписали открытое письмо, опубликованное Институтом будущего жизни MIT, в котором говорится: «Из-за большого потенциала ИИ важно исследовать, как пожинать плоды, избегая потенциальных ловушек. «В сопроводительной статье изложены приоритеты исследований, которые включают установление« значимого человеческого контроля над системой ИИ после того, как она начнет действовать ». Маск, который является одним из громких подписчиков, пожертвовал 10 млн долларов на «исследования, направленные на то, чтобы сохранить ИИ полезными для человечества».
+
+Этические последствия, отмеченные в документе, включают ответственность и право. Например, кто несет ответственность, если водитель без водителя участвует в аварии? Должен ли ИИ охвачен существующим кибер-законом или должен иметь конкретные правила? Какие правила должны быть приняты для контроля за развертыванием автономного оружия?
+
+Речь идет не только о правилах управления интеллектуальными машинами - нам также нужно подумать о том, как мы регулируем данные, которые они создают и разделяют. Правила, направленные на контроль потока персональных данных, в течение долгого времени были важны в законодательной и нормативной повестке дня и были освещены откровениями Сноуденда.
+
+Объединяя ИИ и Интернет, чтобы устройства могли автоматически обмениваться личными данными, в том числе с финансовыми и медицинскими данными, повышает безопасность конфиденциальности и проблемы безопасности. Gartner прогнозирует, что к концу этого года будет около 5 миллиардов подключенных устройств. Регуляторы и производители устройств должны учитывать, что подключенные устройства предоставляют дополнительные возможности как законным организациям, так и хакерам для доступа к персональным данным.
+
+Наконец, в документе затрагивается профессиональная этика и потребность в политике, которая позволяет нам пользоваться преимуществами ИИ и минимизировать опасности. Ответ заключается в разработке надежного ИИ с помощью проверки (правильно ли я построил систему?), Действительность (я построил правильную систему?), Безопасность и контроль. Это ключевые проблемы.
+
+AI явно имеет потенциал для изменения того, как мы живем и работаем, но важно, чтобы мы установили соответствующие ограничения и меры контроля. В противном случае риск состоит в том, что вместо расширения наших горизонтов и нашего потенциала компромиссы, которые мы уже делаем с точки зрения доступа к нашей личной информации, могут привести к компрометации нашего выбора и даже наших основных прав человека.
+
+ Эксперты сказали, что «суперкомпьютер» обманул людей, считая, что 13-летний мальчик стал первой машиной для прохождения «знакового» теста Тьюринга.
+
+Пять машин были протестированы в Королевском обществе в центре Лондона, чтобы узнать, могут ли они обмануть людей, думая, что они были людьми во время текстовых разговоров. Тест был разработан в 1950 году пионером по информатике и кодовым разрывом Второй мировой войны Аланом Тьюрингом, который сказал, что если машина была неотличима от
+человек, тогда это было «мышление».
+
+Ни один компьютер никогда не проходил тест Тьюринга, который требует, чтобы 30 процентов человеческих следователей были обмануты во время серии пятиминутных разговоров с клавиатурой, сказали организаторы из Университета Рединга.
+
+Но «Юджин Густман», компьютерная программа, разработанная для моделирования 13-летнего мальчика, сумела убедить 33% судей в том, что это был человек, сказал университет.
+
+ Профессор Кевин Уорвик из Университета Рединга сказал: «В области искусственного интеллекта нет более знаковой и противоречивой вехи, чем Тест Тьюринга.
+
+«Уместно, что такая важная веха была достигнута в Королевском обществе в Лондоне, в доме британской науки, и на сцене многих великих успехов в человеческом понимании на протяжении веков. Эта веха войдет в историю как одна из самых захватывающих ».
+
+Успешная машина была создана россиянином Владимиром Веселовым, который живет в Соединенных Штатах, и украинцем Юджином Демченко, который живет в России. Г-н Веселов сказал: «Это замечательное достижение для нас, и мы надеемся, что это повысит интерес к искусственному интеллекту и чатам».
+
+Профессор Уорик сказал, что ранее были утверждения о том, что тест прошел в подобных соревнованиях по всему миру. «Настоящий тест Тьюринга не задает вопросов или тем до разговоров», - сказал он. «Поэтому мы с гордостью заявляем, что тест Алана Тьюринга прошел впервые». Профессор Уорвик сказал, что компьютер с таким искусственным интеллектом имеет «последствия для общества» и будет служить «пробуждением» к киберпреступности ».
+
+
+----------||---||----||----||-------====-------------------
+----------||---||----||----||--------||--------------------
+----------||===||----||----||--------||--------------------
+----------||---||----||___/,|\------====-------------------
+
+
+Joanna Goodman looks at the promises and pitfalls of AI as we face the real possibility of ‘thinking’ machines capable of making decisions that affect humans
+
+Humans have long been fascinated by the concept of artificial intelligence, but it is only relatively recently that technology has advanced sufficiently to make it reality. In 2014 we saw a computer pass the Turing test – its responses in a series of text conversations convinced 30% of human interrogators that it was human.
+
+We see AI in everyday life. Examples include Apple’s Siri and Microsoft’s Cortana – ironically named after a character with corrupted artificial intelligence in the Halo video game series. We’re on the way to driverless cars with Tesla Motors’ latest dual-motor Model S, whose autopilot feature keeps the car safely in lane, obeys speed limits, avoids obstacles and parks itself in your garage. CEO Elon Musk told Bloomberg he expects Tesla to be “the first company to market with significant autonomous driving function in the vehicles”.
+
+In the defence sector, South Korean forces have deployed Samsung SGR-1 armed sentry robots to patrol the border with North Korea and in Iraq and Afghanistan the iRobot Packbot Tactical Mobile Robot removes unexploded bombs and mines and collects forensic evidence.
+
+Investors are taking AI seriously. The last quarter of 2014 saw a spate of silicon valley investment in AI start-ups involved in financial risk analysis, big data analysis, language and image recognition and automated report writing. They include financial market prediction engines such as Sentient, which simulates financial markets to work out how they will react to different scenarios, and a Goldman Sachs-backed virtual market assistant from US start-up Kensho, which can answer complex verbal financial questions. In healthcare, IBM’s Watson is helping cancer doctors use genomic data to personalise patients’ treatment plans.
+
+Meanwhile, Facebook is using deep learning, a set of algorithms attempting to model high-level abstractions out of data, to work out whether two photos are of the same person. Last year, Google acquired machine learning start-up DeepMind, and IBM unveiled its SyNapse neuromorphic chip, whose silicon transistors are configured to replicate the neurons and synapses of the human brain.
+
+However, as interest and investment in the area explodes, many of the world’s leading thinkers and entrepreneurs are publicly expressing their concerns. Stephen Hawking says it could spell the end of the human race; Elon Musk says it’s more dangerous than nukes.
+
+We have always considered AI with some trepidation. Isaac Asimov’s laws of robotics date back to 1942. Numerous AI films have highlighted potential dangers to humanity, particularly when machines with AI become “self-aware”. Recent examples include Her and Ex Machina. But that is fiction. Now we face the genuine possibility of “thinking” machines making decisions that affect people.
+
+In practical terms, AI eliminates human error. It won’t get tired, get the maths wrong or do the same test twice. But although we can humanise technology to analyse and make decisions based on our needs, behaviours, preferences and reactions, we need to be careful about setting its goals – and be aware of its limitations. An obvious limitation is that hardware and software wear out and are superseded, but the big questions are around ethics. What are the legal implications? What rules should we be making to reduce the risks?
+
+Many of the world’s AI experts have recently signed an open letter published by MIT-affiliated The Future of Life Institute, which states: “Because of the great potential of AI, it is important to research how to reap its benefits while avoiding potential pitfalls.” The accompanying paper sets out research priorities which include establishing “meaningful human control over an AI system after it begins to operate”. Musk, who is one of the high-profile signatories, has donated $10m to “research aimed at keeping AI beneficial for humanity”.
+
+The ethical implications highlighted by the paper include liability and law. For example, who is liable if a driverless car is involved in an accident? Should AI be covered by existing cyber law, or should it have specific rules? What rules should be made to control the deployment of autonomous weapons?
+
+It is not just about making rules to govern intelligent machines – we also need to consider how we regulate the data they create and share. Rules attempting to control the flow of personal data have been high on the legislative and regulatory agenda for a long time, and were highlighted by the Snowden revelations.
+
+Combining AI and the internet of things so that devices can automatically share personal data, including financial and health data, raises further privacy and security concerns. Gartner forecasts that by the end of this year there will be nearly 5 billion connected devices. Regulators and device manufacturers need to consider that connected devices provide extra opportunities for both legitimate organisations and hackers to access personal data.
+
+Finally, the paper touches on professional ethics and the need for policies that enable us to enjoy the benefits of AI and minimise the dangers. The answer is to develop robust AI through verification (did I build the system right?), validity (did I build the right system?), security, and control. These are key challenges.
+
+AI clearly has the potential to transform the way we live and work, but it is important that we set appropriate limitations and controls. Otherwise the risk is that rather than expanding our horizons and our potential, the compromises that we are already making in terms of access to our personal information could end up compromising our choices, and even our basic human rights.
+
+ A ''super computer'' has duped humans into thinking it is a 13-year-old boy to become the first machine to pass the ''iconic'' Turing Test, experts have said.
+
+Five machines were tested at the Royal Society in central London to see if they could fool people into thinking they were humans during text-based conversations.The test was devised in 1950 by computer science pioneer and Second World War codebreaker Alan Turing, who said that if a machine was indistinguishable from a human, then it was ''thinking''.
+
+No computer had ever previously passed the Turing Test, which requires 30 per cent of human interrogators to be duped during a series of five-minute keyboard conversations, organisers from the University of Reading said.
+
+But ''Eugene Goostman'', a computer programme developed to simulate a 13-year-old boy, managed to convince 33 per cent of the judges that it was human, the university said. 
+
+ Professor Kevin Warwick, from the University of Reading, said: ''In the field of artificial intelligence there is no more iconic and controversial milestone than the Turing Test.
+
+''It is fitting that such an important landmark has been reached at the Royal Society in London, the home of British science and the scene of many great advances in human understanding over the centuries. This milestone will go down in history as one of the most exciting.''
+
+The successful machine was created by Russian-born Vladimir Veselov, who lives in the United States, and Ukrainian Eugene Demchenko who lives in Russia.  Mr Veselov said: ''It's a remarkable achievement for us and we hope it boosts interest in artificial intelligence and chatbots.''
+
+Prof Warwick said there had been previous claims that the test was passed in similar competitions around the world.''A true Turing Test does not set the questions or topics prior to the conversations,'' he said. ''We are therefore proud to declare that Alan Turing's test was passed for the first time.'' Prof Warwick said having a computer with such artificial intelligence had ''implications for society'' and would serve as a ''wake-up call to cybercrime''. 
+
+	
+____ ?Rosy?
+____?Rose?Rose
+___?Rose?Rose?R
+___?Rose?Rose?R
+__?Rose?Rose?Ro
+_?Rose?Rose?Ro
+_?Rose?Rose?Ro
+_?Rose?Rose?Rose?
+?Rose?Rose?Rose?Ros­e
+?Rose?Rose?Rose?Ros­e?Ro
+?Rose?Rose?Rose?Ros­e?Ros
+_?Rose?__?Rose?Rose­?Ros
+___?Ros____?Rose?Ro­se?
+___?Ros_____?Rose?R­ose
+___?Ros_____?Rose?R­ose
+____?Ros____?Rose?R­ose
+_____?Ro____?Rose?R­os
+______?Ro__?Rose?Ro­se
+_______?Rose?Rose?R­os
+________?Rose?Rose?­Ros
+_______?Rose?Rose?R­ose?Ro
+_______?Rose?Rose?R­ose?Rose?
+_______?Rose?Rose?R­ose?Rose?Rose
+_______?Rose?Rose?R­ose?Rose?Rose?R
+________?Rose?Rose_­___?Rose?Rose?Ro
+_________?Rose?Ro__­_____?Rose?Rose?
+_________?Rose?Ro__­___?Rose?Rose?
+_________?Rose?R___­_?Rose?Rose
+_________?Rose?R_?R­ose?Rose
+________?Rose?Rose?­Rose
+________?Rose?Rose?­R
+________?Rose?Rose
+_______?Rose?Ro
+_______?Rose?
+______?Rose?
+______?Rose?
+______?Rose?
+______?Rose
+______?Rose
+_______?Ros
+_______?Ros
+_______?Ros
+______?Rose_____
+		

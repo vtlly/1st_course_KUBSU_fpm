@@ -1,0 +1,127 @@
+ENGL
+The History of 3D Printing
+Three-dimensional printing, also known as additive manufacturing, is the process of using additives to form solid 3D objects of virtually any shape from a digital model. This is achieved using specially formulated additives, such as plastics, that are formed into successive layers of material typically laid down on a platform in different shapes. 3D printing is uniquely distinct from a more traditional 3D sculpting technique, which relies on the removal of layers (subtractive manufacturing) to produce a three-dimensional object.
+
+While 3D printers have recently been thrust into the spotlight with several startups, such as MakerBot, producing printers capable of turning digital models into real-world objects, these have not been the first such tools to find their way to market.
+
+The first published account of a printed solid model was made by Hideo Kodama of Nagoya Municipal Industrial Research Institute in 1982. The first working 3D printer was created in 1984 by Charles W. Hull of 3D Systems Corp. Hull published a number of patents on the concept of 3D printing, many of which are used in today’s additive manufacturing processes. Of course, 3D printing in the early days was very expensive and not feasible for the general market. As we moved into the 21st century, however, costs drastically dropped, allowing 3D printers to find their way to a more affordable market.
+
+--How 3-D printing will radically change the world
+If you're not excited by 3-D printing it's because you're not thinking big enough, say some technology visionaries who predict that life on Earth will soon radically change because of it.
+
+According to these futurists, 3-D printing will make life as we know it today barely recognizable in 50 to 75 years.
+
+"Realistically, we're going to be living to 100 ...110. With bio-printed organs, living to 110 won't be anything like living to that age today," contends Jack Uldrich, a technology trend expert. "We're already printing skin, kidneys, a replica of a beating human heart. If a person loses a limb, we'll be able to print, layer by layer, a replacement. It's theoretically possible."
+
+Uldrich says companies will soon be able to manufacture goods domestically, with virtually no wasted materials and no need for international outsourcing.
+
+"If we can print a shoe here, we don't have to go to China or Indonesia," he says. Uldrich also predicts the demise of the construction and agriculture industries, which he says will make many traditional methods of building and food production obsolete. 
+
+"Right now, you have to feed a cow 20,000 gallons of water and 10,000 pounds of grain in its lifetime. Then there's the cost of slaughtering, shipping and packaging. Our grandkids will say, 'that was insane.' "
+
+In fact, 3-D printing technology is advancing at a staggering rate. American designers are now working on 3-D printed cars, while in China and Holland, 3-D printers are building entire houses. The first 3-D printed hamburger was recently created in England, heralding the possibility of a man-made food supply.
+
+Boeing, GE and other industry leaders are manufacturing state-of-the-art aerospace equipment with the new technology, while NASA, using Zero-G technology, is demonstrating how 3-D printers will one day be used in space.
+
+Perhaps most dramatic are the advances being made in the medical field. Research and development of 3-D printing-based medical techniques have already saved countless lives and opened the doors to previously unimaginable possibilities in medicine. 
+"It's opening up a whole new world," agrees Sarah Boisvert, chief 3-D printing officer at Potomac Photonics and a technology consultant at MIT. However, she cautions that, despite its increasingly dominant presence in highly specialized industries, 3-D printing technology will not meaningfully change the lives of the average person in the foreseeable future.
+
+
+"I'm so sick of reading the hype," she admits. "Like, 'we can press a button and make anything.' Yes, that is the future and it's coming, but right now it's complicated. Not every 3-D printer can generate every material. Some guy in his garage is not going to be able to print Titanium."
+
+"I don't want to be a naysayer, but these are grandiose notions we should keep at bay," warns Tim Shinbara, technology director at the Association of Manufacturing Technology in McLean, Virginia. Shinbara, who is currently helping create the first crowd-source designed, 3-D printed car (to be unveiled at the International Manufacturing Technology Show in October), says people's excitement should not override their common sense.
+
+"3-D printing is not that new; we've heard all this before," Shinbara says. "Inventions like the computer changed things, yes, the world progressed, but still, we're not living in a Jetsons world. We're not flying around in cars."
+
+
+One area that particularly concerns him is 3-D printed food.
+
+"Even if it technically works, should we be doing it? If we start creating food instead of growing or harvesting it—that gets a little scary. At a molecular level, does your body accept something that's been artificially and genetically manufactured? Even if it looks the same under a microscope, what will it do to you over 10, 20 years?"
+
+The hype over 3-D printing, say technology experts, ignores the potential problems it will create. One significant problem is the legality and ethical ramifications of widespread public use. Right now, additive manufacturing (the technical term for 3-D printing) is in its "Wild West" phase, meaning, the laws have not yet caught up with the technology.
+
+An example of this is 3-D printed guns. Last year, blueprints for a 3-D-printable gun, The Liberator, were posted online and downloaded some 100,000 times before the State Department ordered them taken down.
+
+"If gun control advocates hoped to prevent blueprints for the world's first fully 3-D-printable gun from spreading online, that horse has now left the barn about a hundred thousand times," Forbes magazine wrote.
+
+A few months after The Liberator incident, President Obama extended the 1988 Undetectable Firearms Act, which prohibits the manufacture, sale or possession of guns that are undetectable by X-ray machines or metal detectors. Critics protested that 3-D printed guns could easily be modified to circumvent airport surveillance machines.
+
+And there are other ethical issues to be considered with 3-D printing. Though Daniel Castro, Senior Policy Analyst at the Information Technology and Innovation Foundation in Washington, DC, believes 3-D printing's capacity for innovation will ultimately benefit society, he wonders how intellectual property rights will be protected and enforced.
+"I don't think we're going to be too worried about consumers printing out Mickey Mouse and Disney being mad about that," says Castro. "We're more likely to be concerned about India or China or another country stealing digital designs using corporate espionage, and then being able to perfectly replicate what's been produced in the US or elsewhere. Governments will have to hold companies accountable for what could be massive intellectual corporate property theft."
+
+Technology gurus like Jack Uldrich, however, say there's no stopping a speeding a train. The choices are get on board, get passed by or get run over, he says.
+
+"If you can print out food, components of homes, body parts as we age, it points to a really interesting future," he speculates. "We'll be treating animals in a humane way, rewriting the rules of society. What if we really don't need to work? In the hands of 7 billion creative people—we can't even begin to imagine how people will use this technology."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+РУС
+История 3D-печати
+Трехмерная печать, также известная как аддитивное производство-это процесс с помощью добавок в виде твердых 3D объектов практически любой формы из цифровой модели. Это достигано используя специально сформулированные добавки, как пластмассы, которые сформированы в последовательные слои материала типично положенные вниз на платформу в различных формах. 3D-печать уникально отличается от более традиционной техники 3D-скульптуры, которая опирается на удаление слоев (субтрактивное производство) для создания трехмерного объекта.
+
+В то время как 3D-принтеры недавно были поставлены в центр внимания с несколькими стартапами, такими как MakerBot, производящими принтеры, способные превращать цифровые модели в реальные объекты, они не были первыми такими инструментами, чтобы найти свой путь на рынок.
+
+Первый опубликованный отчет о печатной твердой модели был сделан Хидео Кодама из Нагойского муниципального Института промышленных исследований в 1982 году. Первый рабочий 3D-принтер был создан Чарльзом Халлом в 1984 году в. в 3D корп корпусных систем, опубликовали ряд патентов на концепции 3D-печати, многие из которых используются в современных производственных процессах добавки. Конечно, 3D-печать в первые дни была очень дорогой и неосуществимой для общего рынка. Однако, когда мы переехали в 21-й век, затраты резко упали, что позволило 3D-принтерам найти свой путь к более доступному рынку.
+
+--Как 3D-печать кардинально изменит мир
+Если Вы не в восторге от трехмерной печати, это потому, что вы недостаточно мыслите, скажем, некоторые технологические провидцы, которые предсказывают, что жизнь на Земле скоро радикально изменится из-за этого.
+
+По мнению этих футуристов, трехмерная печать сделает жизнь такой, какой мы ее знаем сегодня, едва узнаваемой через 50-75 лет.
+
+"Реально, мы будем жить до 100 ...110. С био-печатных органов, проживающих в 110 не будет ничего подобного, живущих в этом возрасте сегодня", - утверждает Джек Uldrich, технология трендовая. "Мы уже печатаем кожу, почки, копию бьющегося человеческого сердца. Если человек потеряет конечность, мы сможем напечатать, слой за слоем, замену. Это теоретически возможно."
+
+Ульдрих говорит, что компании скоро смогут производить товары внутри страны, практически без потерь материалов и без необходимости в международном аутсорсинге.
+
+"Если мы можем напечатать обувь здесь, нам не нужно ехать в Китай или Индонезию", - говорит он. Ульдрих также прогнозирует упадок строительной и сельскохозяйственной отраслей, что, по его словам, сделает устаревшими многие традиционные методы строительства и производства продуктов питания. 
+
+"Прямо сейчас вы должны кормить корову 20 000 галлонов воды и 10 000 фунтов зерна в течение ее жизни. Тогда есть стоимость забоя, доставки и упаковки. Наши внуки скажут: "это было безумие.' "
+
+На самом деле, Технология печати 3-D продвигается с ошеломляющей скоростью. Американские дизайнеры сейчас работают над 3-D печатные машины, а в Китае и Голландии, 3-D принтеры строят целые дома. Первый 3-D печатные гамбургер недавно был создан в Англии, предвещая возможность искусственного питания.
+
+Boeing, GE и другие лидеры отрасли производят современное аэрокосмическое оборудование с новой технологией, в то время как NASA, используя технологию Zero-G, демонстрирует, как 3-D принтеры однажды будут использоваться в космосе.
+
+Возможно, наиболее драматичными являются достижения в области медицины. Научные исследования и разработки 3-D основанных на печатани медицинских методов уже сохраняли бесчисленные жизни и раскрывали двери к ранее невообразимым возможностям в медицине. 
+"Это открывает совершенно новый мир", - соглашается Сара Бойсверт, главный 3-D сотрудник по печати в Potomac Photonics и консультант по технологиям в MIT. Однако она предупреждает,что, несмотря на все более доминирующее присутствие в узкоспециализированных отраслях, Технология трехмерной печати не изменит жизнь среднего человека в обозримом будущем.
+
+
+"Мне так надоело читать шумиху", - признается она. "Например, мы можем нажать кнопку и сделать что угодно.- Да, это будущее, и оно грядет, но сейчас это сложно. Не каждый 3-D принтер может произвести каждый материал. Какой-то парень в своем гараже не сможет напечатать Титан."
+
+"Я не хочу быть букой, но эти грандиозные и мы должны держать в страхе", - предупреждает Тим Shinbara, директор по технологиям в Ассоциации производственных технологий в Маклине, штат Вирджиния. Шинбара, который в настоящее время помогает создать первый трехмерный печатный автомобиль, разработанный толпой, (который будет представлен на международной выставке технологий производства в октябре), говорит, что волнение людей не должно переопределять их здравый смысл.
+
+"3-D печать-это не такая уж и новая; мы слышали все это раньше", - говорит Shinbara. "Изобретения, такие как компьютер, изменили вещи, да, мир прогрессировал, но все же мы не живем в мире Jetsons. Мы не летаем на машинах."
+
+
+Одна из областей, которая особенно касается его, - это 3-D печатная еда.
+
+"Даже если это технически работает, мы должны это делать? Если мы начнем создавать пищу, а не выращивать или собирать ее—это становится немного страшно. На молекулярном уровне, ваше тело принимает что-то искусственно и генетически изготовленное? Даже если он выглядит так же, под микроскопом, что же он будет делать через 10, 20 лет?"
+
+Шумиха по 3-D печати, говорят технические эксперты, игнорирует потенциальных проблем это создаст. Одной из важных проблем является законность и этические последствия широкого общественного использования. Прямо сейчас аддитивное производство (технический термин для трехмерной печати) находится в фазе" Дикого Запада", то есть законы еще не догнали технологию.
+
+Примером этого является 3-D печатные пушки. В прошлом году чертежи 3-D-печатного пистолета "Освободитель" были размещены в интернете и загружены около 100 000 раз, прежде чем Госдепартамент приказал их снять.
+
+"Если сторонники контроля над оружием надеялись предотвратить распространение в интернете чертежей первой в мире полностью трехмерной печатной пушки, эта лошадь теперь покинула амбар около ста тысяч раз", - написал журнал Forbes.
+
+Через несколько месяцев после инцидента с "Освободителем" Президент Обама продлил действие Закона 1988 года о Неразличимом Огнестрельном оружии, который запрещает производство, продажу или владение оружием, которое невозможно обнаружить с помощью рентгеновских аппаратов или металлоискателей. Критики протестовали против того, что 3-D печатные пушки могут быть легко изменены, чтобы обойти машины наблюдения аэропорта.
+
+И есть и другие этические вопросы, которые необходимо рассмотреть с 3-D печатью. Хотя Даниэль Кастро, старший аналитик Фонда информационных технологий и инноваций в Вашингтоне, округ Колумбия, считает, что способность трехмерной печати к инновациям в конечном итоге принесет пользу обществу, он задается вопросом, как будут защищены и соблюдены права интеллектуальной собственности.
+"Я не думаю, что мы будем слишком беспокоиться о том, что потребители печатают Микки Мауса и Диснея, которые злятся на это", - говорит Кастро. "Мы, скорее всего, будем обеспокоены тем, что Индия или Китай или другая страна крадут цифровые проекты, используя корпоративный шпионаж, а затем смогут идеально воспроизвести то, что было произведено в США или в других местах. Правительства должны будут привлечь компании к ответственности за массовое хищение интеллектуальной собственности."
+
+Однако гуру технологии, как Джек Uldrich говорят, что там нет остановки мчащегося поезда. Выбор подняться на борт, обошел и снова, говорит он.
+
+"Если вы можете распечатать пищу, компоненты домов, части тела, как мы стареем, это указывает на действительно интересное будущее", - размышляет он. "Мы будем относиться к животным гуманно, переписывая правила общества. Что если нам действительно не нужно работать? В руках 7 млрд творческих людей—мы даже не можем себе представить, как люди будут использовать эту технологию."
